@@ -127,7 +127,7 @@ Autonomous-Systems-Projects/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Autonomous-Systems-Projects.git
+git clone https://github.com/SenudaR20/Autonomous-Systems-Projects.git
 cd Autonomous-Systems-Projects
 ```
 
